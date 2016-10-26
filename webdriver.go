@@ -254,7 +254,7 @@ func crawlTwitter() {
 		fmt.Printf("-------------------\n")
 	}
 
-	fmt.Printf("--- END ---")
+	fmt.Printf("--- END --- 10-26")
 }
 
 func main() {
